@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InteraccioJugador" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQABAAAACAAIABBAAAAQAAAASAAAAAAAABAgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\InteraccioJugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FirstPersonController" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MwQDBkIBoyAQCQiEgAQoAAKSSgyIEEAIAUEggCxwA0k=</HashCode>
+      <FileName>Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FirstPersonControllerEditor" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAACAAAAAAAAAAAABAAAAAACAA=</HashCode>
+      <FileName>Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Salut" Collapsed="true">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASACIAAAKABkAIAAAAIIQICgCAAAAAAAQBAAYCAAAI=</HashCode>
+      <FileName>Assets\Scripts\Salut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialegManager" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAAAAAggAAAgAAAAAAAIAQhAAAAJAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DialegManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventari" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAoACAAEABAQAAgAAAAEADACACICABIAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Inventari\Inventari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryUI" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAIAAAAAAAAgAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventari\InventariUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventariItemUI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACECgiAAAAAAAACgAEAgAAAAAAIAAAIBQAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Inventari\InventariItemUI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.18" />
+  </Class>
+  <Class Name="CaixaUI" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAIAAAgAAAAgAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Inventari\CaixaUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Caixa" Collapsed="true">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAACAEAAAAAgAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventari\Caixa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCQuest" Collapsed="true">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAgAAAAAAAAAAIAEAAAAQAACAQAAAEQAAgg=</HashCode>
+      <FileName>Assets\Scripts\Quests\NPCQuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEAAAAAAAAAAgCIAAAAAAABAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Inventari\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemDatabase" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventari\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemStack" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Inventari\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventariData" Collapsed="true">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventari\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CanviArmes" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAAEAAAAAAAAAAACAAAAAAAAAAAAAAMAkE=</HashCode>
+      <FileName>Assets\Scripts\Acció\CanviArmes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mele" Collapsed="true">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAACAQgAAAAABAABABAAAAEAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Acció\Mele.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pistola" Collapsed="true">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAQAAAAAABAAAABAAAAECAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Acció\Pistola.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemicIA" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAEAKCQACQAAAQIUQEABAgoAECABAIAQAAwQAgE=</HashCode>
+      <FileName>Assets\Scripts\Acció\EnemicIA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuestManager" Collapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAEAEA=</HashCode>
+      <FileName>Assets\Scripts\Quests\QuestManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spawner" Collapsed="true">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIEAACAAAgAAAAEAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Acció\Spawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Target" Collapsed="true">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Acció\Target.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConfirmacioUI" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAASAAAAAAAAAAAAAgAAAAAAIAAAAIQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventari\ConfirmacióUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemicQuest" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quests\EnemicQuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjecteMissio" Collapsed="true">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAIAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quests\ObjecteMissio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quest" Collapsed="true">
+    <Position X="1" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAIAAAAAAIAAAAAAgAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quests\Quest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dialeg" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Dialeg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prefabs" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAEAAAAAAAAAAAAABAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\Prefabs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Text" Collapsed="true">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAQAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="QuestEstat" Collapsed="true">
+    <Position X="1" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quests\QuestEstat.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

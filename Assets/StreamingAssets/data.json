@@ -1,0 +1,97 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "nom": "Monedes",
+            "pes": 0,
+            "consumible": true,
+            "valor": 1
+        },
+        {
+            "id": 2,
+            "nom": "Bales",
+            "pes": 1,
+            "consumible": true,
+            "valor": 10
+        },
+        {
+            "id": 10,
+            "nom": "Aspirina",
+            "pes": 1,
+            "cura": 10,
+            "consumible": true,
+            "valor": 1
+        },
+        {
+            "id": 11,
+            "nom": "Pomada",
+            "pes": 1,
+            "cura": 10,
+            "consumible": true,
+            "valor": 1
+        },
+        {
+            "id": 50,
+            "nom": "Poma",
+            "pes": 2,
+            "energia": 10,
+            "consumible": true,
+            "valor": 1
+        },
+        {
+            "id": 51,
+            "nom": "Pastanaga",
+            "pes": 2,
+            "energia": 10,
+            "consumible": true,
+            "valor": 1
+        },
+        {
+            "id": 52,
+            "nom": "Bolet",
+            "pes": 2,
+            "energia": 15,
+            "consumible": true,
+            "valor": 5
+        },
+        {
+            "id": 60,
+            "nom": "Gallina",
+            "pes": 5,
+            "energia": 20,
+            "consumible": true,
+            "valor": 10
+        },
+        {
+            "id": 100,
+            "nom": "Fusta",
+            "pes": 5,
+            "consumible": false,
+            "valor": 10
+        },
+        {
+            "id": 150,
+            "nom": "Revistes porques",
+            "pes": 5,
+            "consumible": false,
+            "valor": 10
+        },
+        {
+            "id": 151,
+            "nom": "Diccionari català-valencià",
+            "pes": 1,
+            "consumible": false,
+            "valor": 1
+        },
+        {
+            "id": 152,
+            "nom": "Motor diesel",
+            "pes": 50,
+            "consumible": false,
+            "valor": 150
+        }
+    ],
+
+    "estats": [
+    ]
+}
